@@ -2,17 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main() {
-
-	    // ANSI escape code for blue color
-    printf("\033[0;34m"); 
-    
-    // Printing the text in blue color
-    printf("Hello, WebStats!\n");
-    
-    // Resetting color to default
-    printf("\033[0m"); 
-    
+int main() {    
 	 char site[100];
 
 	// Check Internet Connection
