@@ -1,6 +1,6 @@
 # WebStats by KraKeN
 
-WebStats is my first C program that allows to check the status and response time of a website. It utilizes the `ping` command to send a single ICMP echo request packet to the specified website and displays the response time, indicating whether the website is UP or DOWN.
+C program that allows to check the status and response time of a website. It utilizes the `ping` command to send a single ICMP echo request packet to the specified website and displays the response time, indicating whether the website is UP or DOWN.
 
 ## WebStats Features
 
