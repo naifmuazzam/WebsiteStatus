@@ -16,6 +16,5 @@ WebStats is my first C program that allows to check the status and response time
 ## Usage
 
 1. Compile the program using the following command:
-gcc webstats.c -o webstats
-
-run the prog ./webstats
+`gcc webstats.c -o webstats`
+`run the program by ./webstats`
