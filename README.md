@@ -29,5 +29,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by the need to quickly check website status.
+- Quickly check website status.
 - Thanks ChatGPT for assisting in creating this README.md file.
